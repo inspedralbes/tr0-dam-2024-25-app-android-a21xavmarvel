@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.Tr0.Night" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Tema personalizado para el modo noche -->
+    </style>
+</resources>
